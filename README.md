@@ -1,0 +1,1 @@
+# Allergy-Medification-Temperature-Class
